@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.comstar.mapper.esb.XDReleaseLimitTrackMapper" >
+  <resultMap id="BaseResultMap" type="com.comstar.model.esb.XDReleaseLimitTrack" >
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="ID" property="id" jdbcType="VARCHAR" />
+    <result column="P_ID" property="pId" jdbcType="VARCHAR" />
+    <result column="GLOBAL_MSG_SEQ" property="globalMsgSeq" jdbcType="VARCHAR" />
+    <result column="STATUS_CODE" property="statusCode" jdbcType="VARCHAR" />
+    <result column="STATUS_MSG" property="statusMsg" jdbcType="VARCHAR" />
+    <result column="UPDT_USER" property="updtUser" jdbcType="VARCHAR" />
+    <result column="LAST_MODIFIED" property="lastModified" jdbcType="TIMESTAMP" />
+    <result column="REQ_CONTENT" property="reqContent" jdbcType="CLOB" />
+    <result column="RES_CONTENT" property="resContent" jdbcType="CLOB" />
+  </resultMap>
+</mapper>
