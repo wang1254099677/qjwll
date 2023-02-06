@@ -1,1 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T03:42:09.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.8.16" etag="41A11Sm7tKlgU5B775kj" type="github"><diagram name="第 1 页" id="cF2UsCaiiqeZPrGPbvaC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-06T04:02:25.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mCc2sSVe1S1CzXMvWDyq" version="20.8.16" type="github">
+  <diagram name="第 1 页" id="cF2UsCaiiqeZPrGPbvaC">
+    <mxGraphModel dx="880" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-29" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="380" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nkgLUsx-U9XnApX_AZt-9" target="1nkgLUsx-U9XnApX_AZt-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1nkgLUsx-U9XnApX_AZt-9" target="1nkgLUsx-U9XnApX_AZt-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-9" value="本币资金管理TBS后台" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;dashed=1;dashPattern=12 12;fillColor=#fa6800;strokeColor=#C75C0A;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endSize=4;startSize=6;jumpStyle=line;" edge="1" parent="1" source="1nkgLUsx-U9XnApX_AZt-9" target="1nkgLUsx-U9XnApX_AZt-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="240" as="sourcePoint" />
+            <mxPoint x="240" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-11" value="交易轮询" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=default;strokeWidth=1;startSize=6;endSize=4;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nkgLUsx-U9XnApX_AZt-14" target="1nkgLUsx-U9XnApX_AZt-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="272" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1nkgLUsx-U9XnApX_AZt-50" target="1nkgLUsx-U9XnApX_AZt-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="471" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="80" />
+              <mxPoint x="540" y="467" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="1nkgLUsx-U9XnApX_AZt-14" target="1nkgLUsx-U9XnApX_AZt-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-14" value="本币资金交易系统CMS前台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="172" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-18" value="用友系统" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="454" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-24" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;国债期货、&lt;br&gt;交易所现券、交易所回购&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="232" width="80" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-26" value="风控、流动性取数" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="213" y="454" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-27" value="账务接口" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="417" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-28" value="数据库取数" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="228" y="417" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="1nkgLUsx-U9XnApX_AZt-30" target="1nkgLUsx-U9XnApX_AZt-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-30" value="恒生系统" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="437" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="1nkgLUsx-U9XnApX_AZt-38" target="1nkgLUsx-U9XnApX_AZt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-38" value="O32上行接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="297.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-43" value="数据库取数" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="1nkgLUsx-U9XnApX_AZt-50" target="1nkgLUsx-U9XnApX_AZt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-50" value="本币资金交易系统CMS前台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-53" value="上行接口" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-54" value="CSTP接口" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nkgLUsx-U9XnApX_AZt-55" value="CDIS资管数据分发" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="202" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
